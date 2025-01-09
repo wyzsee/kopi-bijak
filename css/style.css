@@ -296,13 +296,11 @@ body {
 }
 
 .contact .row form .input-group .svg{
-  background-color: #e4c98b;
-  border-radius: 100% ;
   padding: 0.3rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--bg);
+  color: var(--text-primary);
 }
 
 .contact .row form .input-group input{
